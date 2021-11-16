@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: bf2b1907b6eca234086080ead84498b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8917443778686443611
+    second: karakter dan lainnya-02_0
+  - first:
+      213: -2478726882724623161
+    second: karakter dan lainnya-02_1
+  - first:
+      213: 4846239244448929372
+    second: karakter dan lainnya-02_2
+  - first:
+      213: -930231980125914807
+    second: karakter dan lainnya-02_3
+  - first:
+      213: 668351025086415660
+    second: karakter dan lainnya-02_4
+  - first:
+      213: -5598943672732562282
+    second: karakter dan lainnya-02_5
+  - first:
+      213: 5155622840601489382
+    second: karakter dan lainnya-02_6
+  - first:
+      213: 4757159858301866378
+    second: karakter dan lainnya-02_7
+  - first:
+      213: -3039394758637502007
+    second: karakter dan lainnya-02_8
+  - first:
+      213: -8848692938362428333
+    second: karakter dan lainnya-02_9
+  - first:
+      213: 7434552096899747134
+    second: karakter dan lainnya-02_10
+  - first:
+      213: -4522851718381378216
+    second: karakter dan lainnya-02_11
+  - first:
+      213: -2843444032584962707
+    second: karakter dan lainnya-02_12
+  - first:
+      213: -3935814164666811829
+    second: karakter dan lainnya-02_13
+  - first:
+      213: -2442571491054584060
+    second: karakter dan lainnya-02_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_0
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1474
+        width: 90
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b506f1dbedf11cb70800000000000000
+      internalID: 8917443778686443611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_1
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1474
+        width: 81
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccccf3780bc99dd0800000000000000
+      internalID: -2478726882724623161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_2
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1495
+        width: 105
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569fe59aec414340800000000000000
+      internalID: 4846239244448929372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_3
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1514
+        width: 104
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949f2e151f62713f0800000000000000
+      internalID: -930231980125914807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_4
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 1251
+        width: 672
+        height: 694
+      alignment: 9
+      pivot: {x: 0.56408036, y: 0.081169546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c234b8b57b5764900800000000000000
+      internalID: 668351025086415660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 881
+        width: 144
+        height: 366
+      alignment: 9
+      pivot: {x: 0.24773322, y: 0.9135525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cca55e46e8c42b0800000000000000
+      internalID: -5598943672732562282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_6
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 928
+        width: 153
+        height: 365
+      alignment: 9
+      pivot: {x: 0.22300172, y: 0.91468555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef21f968a37c8740800000000000000
+      internalID: 5155622840601489382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_7
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1090
+        width: 62
+        height: 200
+      alignment: 9
+      pivot: {x: 0.49999803, y: 0.9125726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8194d5cfa3d40240800000000000000
+      internalID: 4757159858301866378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_8
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1021
+        width: 57
+        height: 202
+      alignment: 9
+      pivot: {x: 0.47163472, y: 0.9242046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c14a370296e1d5d0800000000000000
+      internalID: -3039394758637502007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_9
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 795
+        width: 142
+        height: 68
+      alignment: 9
+      pivot: {x: 0.7905437, y: 0.85392225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354666aa7a0233580800000000000000
+      internalID: -8848692938362428333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_10
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 828
+        width: 141
+        height: 66
+      alignment: 9
+      pivot: {x: 0.79813033, y: 0.8919456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d48dffdb5dc2760800000000000000
+      internalID: 7434552096899747134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_11
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 437
+        width: 351
+        height: 574
+      alignment: 9
+      pivot: {x: 0.48275158, y: 0.09918569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855ec12435a9b31c0800000000000000
+      internalID: -4522851718381378216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 85
+        width: 638
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da113b7be0a88d0800000000000000
+      internalID: -2843444032584962707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_13
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 72
+        width: 641
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a751dbedd2169c0800000000000000
+      internalID: -3935814164666811829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakter dan lainnya-02_14
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 108
+        width: 641
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff1319b2e3a1ed0800000000000000
+      internalID: -2442571491054584060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
