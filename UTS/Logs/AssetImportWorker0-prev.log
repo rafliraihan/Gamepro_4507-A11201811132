@@ -1,0 +1,1191 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 6092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Semester 7/GAMEPRO/UTS
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56965
+Successfully changed project path to: D:/Semester 7/GAMEPRO/UTS
+D:/Semester 7/GAMEPRO/UTS
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 89.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Semester 7/GAMEPRO/UTS/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3046 MB
+    Driver:   27.20.11044.7
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56252
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003193 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 81.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.695 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2696ms)
+		BeginReloadAssembly (76ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (552ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (190ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (234ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (81ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (100ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005152 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 84.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.650 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1651ms)
+		BeginReloadAssembly (210ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1354ms)
+			LoadAssemblies (127ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (410ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (584ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (85ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (360ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3245 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3687.
+Total: 4.560400 ms (FindLiveObjects: 0.349900 ms CreateObjectMapping: 0.093400 ms MarkObjects: 4.013700 ms  DeleteObjects: 0.101600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/animasi/player.controller
+  artifactKey: Guid(1696fb81510bb4a4aad641ffa424cea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animasi/player.controller using Guid(1696fb81510bb4a4aad641ffa424cea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1a6afbecee8701c974e10734d0e7ea') in 0.052328 seconds 
+  Import took 0.084547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/animasi
+  artifactKey: Guid(4991c78db60d836419532dea3386ed77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animasi using Guid(4991c78db60d836419532dea3386ed77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aca0deb364d817312549b15664aae28') in 0.010332 seconds 
+  Import took 0.024888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.459836 seconds.
+  path: Assets/gambar/Attack (1).png
+  artifactKey: Guid(2fac12fba25cf374494a41039cfad9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/Attack (1).png using Guid(2fac12fba25cf374494a41039cfad9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7270c2adc2876938272f02178acbabd8') in 0.389603 seconds 
+  Import took 0.410936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/gambar/karakter dan lainnya-06.png
+  artifactKey: Guid(961a6ddef6314bf47b81dc3d41f266e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/karakter dan lainnya-06.png using Guid(961a6ddef6314bf47b81dc3d41f266e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '611e885ce5daf83f3ecdd2b60de600ee') in 0.150908 seconds 
+  Import took 0.172565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/gambar/tombol.png
+  artifactKey: Guid(c48527bc73f490946bb9c9feb67bdb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/tombol.png using Guid(c48527bc73f490946bb9c9feb67bdb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6043407017ad1827adcf3600f13a6c1d') in 0.074442 seconds 
+  Import took 0.098693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/gambar/karakter dan lainnya-05.png
+  artifactKey: Guid(2dcd6d806254bd5409a6516ece913822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/karakter dan lainnya-05.png using Guid(2dcd6d806254bd5409a6516ece913822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b593c5053c9d8e54459be8652ac785f') in 0.110007 seconds 
+  Import took 0.116635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/gambar/titles 2.png
+  artifactKey: Guid(9a898390dd767af40ad3dbe6521fc79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/titles 2.png using Guid(9a898390dd767af40ad3dbe6521fc79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653d29ef19ad8aeba698de5aabd586b9') in 0.049017 seconds 
+  Import took 0.055278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/gambar/karakter dan lainnya-01.png
+  artifactKey: Guid(6824834f85d5b9b4f8bcacba823e4229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/karakter dan lainnya-01.png using Guid(6824834f85d5b9b4f8bcacba823e4229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3e45a589d8b4fc4af57539b806ac3b') in 0.149925 seconds 
+  Import took 0.170606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/gambar/coinsprite.png
+  artifactKey: Guid(608bfd07f3e967e48b6bc8d7480da959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/coinsprite.png using Guid(608bfd07f3e967e48b6bc8d7480da959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50daf78e029309b55f77ffb625375e75') in 0.051410 seconds 
+  Import took 0.057953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/gambar/karakter dan lainnya-03.png
+  artifactKey: Guid(3da19f1d5e866a840b133d99bd9d7621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/karakter dan lainnya-03.png using Guid(3da19f1d5e866a840b133d99bd9d7621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42dcdc93658ee6d806a39c7b66172b9') in 0.096305 seconds 
+  Import took 0.114246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/gambar/kelelawar.png
+  artifactKey: Guid(e01fff28d128ad343b7a76acbaa7a861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/kelelawar.png using Guid(e01fff28d128ad343b7a76acbaa7a861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54c71ebe98edd72945fd900293f7141') in 0.057844 seconds 
+  Import took 0.073619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/gambar/idle.gif
+  artifactKey: Guid(938b12f0c6b7cdf44b65e0723d812174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/idle.gif using Guid(938b12f0c6b7cdf44b65e0723d812174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41239387fe8000bb33c3c8729e2768b1') in 0.051143 seconds 
+  Import took 0.057081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/gambar/monyet.png
+  artifactKey: Guid(f301383ed4befa74b839419b4cd3d0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/monyet.png using Guid(f301383ed4befa74b839419b4cd3d0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9639661e0406e8411ff5f46236e8aff4') in 0.042373 seconds 
+  Import took 0.054798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/gambar/background.png
+  artifactKey: Guid(463818e80622dfa45aa6f0c6b5fe8b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/background.png using Guid(463818e80622dfa45aa6f0c6b5fe8b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71da8702979cfd354c5e96bf26009ad5') in 0.086079 seconds 
+  Import took 0.091842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/gambar/coin 1.png
+  artifactKey: Guid(082ee320e36827a43ad52722e1a34e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/coin 1.png using Guid(082ee320e36827a43ad52722e1a34e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ad9781c2b3610730246af41de2580f') in 0.039158 seconds 
+  Import took 0.045305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/gambar/karakter dan lainnya-02.png
+  artifactKey: Guid(bf2b1907b6eca234086080ead84498b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/karakter dan lainnya-02.png using Guid(bf2b1907b6eca234086080ead84498b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b3399d94cc954d9fedbe1f647ebc1f') in 0.153157 seconds 
+  Import took 0.159287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/gambar/karakter dan lainnya-04.png
+  artifactKey: Guid(03a39bd1a75d31f49ae14bcf33669886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/karakter dan lainnya-04.png using Guid(03a39bd1a75d31f49ae14bcf33669886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733b89d48417e12eb79f13df23c08375') in 0.127580 seconds 
+  Import took 0.137430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/gambar/Karakter.png
+  artifactKey: Guid(717b67b09b49bd140a75c20b557b8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/Karakter.png using Guid(717b67b09b49bd140a75c20b557b8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf02441d03732eb9d2cf00122480277') in 0.039117 seconds 
+  Import took 0.052805 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.043481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.711 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1712ms)
+		BeginReloadAssembly (167ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1449ms)
+			LoadAssemblies (148ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (487ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (550ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (423ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.5 MB.
+System memory in use after: 137.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3762.
+Total: 5.754500 ms (FindLiveObjects: 0.389200 ms CreateObjectMapping: 0.158800 ms MarkObjects: 5.177100 ms  DeleteObjects: 0.027600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 149.731699 seconds.
+  path: Assets/Free Pixel Art Forest/Preview/Background.png
+  artifactKey: Guid(5d48136cf2cd63844b43942d2409c8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Art Forest/Preview/Background.png using Guid(5d48136cf2cd63844b43942d2409c8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a12692458e9a5bfaed1606ce56945a') in 0.073480 seconds 
+  Import took 0.096763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/SpritesArchers/GroundGrass01.png
+  artifactKey: Guid(80f147e572c2bc647a4f09b40ae8a8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpritesArchers/GroundGrass01.png using Guid(80f147e572c2bc647a4f09b40ae8a8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdd09df8cd3f4f74713c86c7f56d2fb0') in 0.049443 seconds 
+  Import took 0.063853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/SpritesArchers/FantasyArcher_02.prefab
+  artifactKey: Guid(0614d333b314caf45a8bb78b23b36fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpritesArchers/FantasyArcher_02.prefab using Guid(0614d333b314caf45a8bb78b23b36fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e88df17f517a14885cb5e0311f48f4') in 0.360335 seconds 
+  Import took 0.380917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Free Pixel Art Hills/PNG/Hills Layer 02.png
+  artifactKey: Guid(3f4b3d177ea855b4a833411dbe376d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Art Hills/PNG/Hills Layer 02.png using Guid(3f4b3d177ea855b4a833411dbe376d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3beaadf1c12b2595b6b103d35edffa') in 0.046000 seconds 
+  Import took 0.053077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Free Pixel Art Hills/PNG/Hills Layer 03.png
+  artifactKey: Guid(6db0991689d232641939ba1ec79be9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Art Hills/PNG/Hills Layer 03.png using Guid(6db0991689d232641939ba1ec79be9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2558333ebd7083d8dab889703226eae3') in 0.043479 seconds 
+  Import took 0.050909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Free Pixel Art Hills/PNG/Hills Layer 04.png
+  artifactKey: Guid(e8a5841827c9a5f4ebd5bce5b5fd76ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Art Hills/PNG/Hills Layer 04.png using Guid(e8a5841827c9a5f4ebd5bce5b5fd76ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf3f4bb638786becebfa929e85c0362') in 0.046890 seconds 
+  Import took 0.052360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Free Pixel Art Hills/PNG/Hills Layer 01B.png
+  artifactKey: Guid(6d066f9faa20fad44aed43b22ad9c89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Art Hills/PNG/Hills Layer 01B.png using Guid(6d066f9faa20fad44aed43b22ad9c89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4b57fae04b8097657fda6fd8ad41df') in 0.026705 seconds 
+  Import took 0.033937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/SpritesArchers/FantasyArcher_03.prefab
+  artifactKey: Guid(e860239eb7102914d8556b248e37e68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpritesArchers/FantasyArcher_03.prefab using Guid(e860239eb7102914d8556b248e37e68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10dd1ba92f0868b76214cc8a68aa0367') in 0.135556 seconds 
+  Import took 0.155404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Free Pixel Art Hills/PNG/Hills Layer 06.png
+  artifactKey: Guid(a9e4acbc9cf06e346a34fcda40a0fad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Art Hills/PNG/Hills Layer 06.png using Guid(a9e4acbc9cf06e346a34fcda40a0fad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1386890ca54517dafba92330f088f9') in 0.058934 seconds 
+  Import took 0.065059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000677 seconds.
+  path: Assets/Free Pixel Art Hills/PNG/Hills Layer 05.png
+  artifactKey: Guid(2dc47d91b92f87c4fb49c83c697b1a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Art Hills/PNG/Hills Layer 05.png using Guid(2dc47d91b92f87c4fb49c83c697b1a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31433b510cf2a4031284489491e8cc66') in 0.034162 seconds 
+  Import took 0.040110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Free Pixel Art Hills/PNG/Hills Layer 01.png
+  artifactKey: Guid(b8657fe1ee4ab734c910b161488d1cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Art Hills/PNG/Hills Layer 01.png using Guid(b8657fe1ee4ab734c910b161488d1cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846fab222cf9729535a73d9e160b4df4') in 0.026595 seconds 
+  Import took 0.041849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/SpritesArchers/FantasyArcher_01.prefab
+  artifactKey: Guid(b7a626342e930e34a875da54fbc9077c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpritesArchers/FantasyArcher_01.prefab using Guid(b7a626342e930e34a875da54fbc9077c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d38ba4549ed5777e3d77d3cccebbe9c') in 0.113147 seconds 
+  Import took 0.118891 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004421 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.640 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1641ms)
+		BeginReloadAssembly (175ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1352ms)
+			LoadAssemblies (126ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (414ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (549ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (432ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.0 MB.
+System memory in use after: 140.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3813.
+Total: 4.461900 ms (FindLiveObjects: 0.342200 ms CreateObjectMapping: 0.088400 ms MarkObjects: 4.009200 ms  DeleteObjects: 0.020600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 564.410581 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG
+  artifactKey: Guid(080480210f236eb4d8bae4f6b33cdb46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG using Guid(080480210f236eb4d8bae4f6b33cdb46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a78accaa8b220739a28cba7b723d8f69') in 0.015923 seconds 
+  Import took 0.022072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036531 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/attack_01.png
+  artifactKey: Guid(2d81263c15e0870429e027cfa336f392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/attack_01.png using Guid(2d81263c15e0870429e027cfa336f392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ccf374a46128899e4ce5fec1772fbc') in 0.068673 seconds 
+  Import took 0.101353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/hurt_01.png
+  artifactKey: Guid(49d02ad39de757b4aa0bf76ab7df3e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/hurt_01.png using Guid(49d02ad39de757b4aa0bf76ab7df3e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3862fc85575dde6f4827842fef70e6d9') in 0.027429 seconds 
+  Import took 0.048388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/dizzy_01.png
+  artifactKey: Guid(844b7de3864e5994caa3b9ee74783f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/dizzy_01.png using Guid(844b7de3864e5994caa3b9ee74783f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecbe915e7184936e111be9fe3e627f14') in 0.027251 seconds 
+  Import took 0.033224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_04.png
+  artifactKey: Guid(f53e5e300297519409f636d0b0aef3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_04.png using Guid(f53e5e300297519409f636d0b0aef3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce6654e90c8ee9722a76433a0692499') in 0.022746 seconds 
+  Import took 0.027956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_008.png
+  artifactKey: Guid(e5e0c75a3ed008442be94f5946f15929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_008.png using Guid(e5e0c75a3ed008442be94f5946f15929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682cbb093f597a2b231e1a492c938aed') in 0.029271 seconds 
+  Import took 0.047104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_05.png
+  artifactKey: Guid(521660e94e83ffa4a85fd97c1535f592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_05.png using Guid(521660e94e83ffa4a85fd97c1535f592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af2f8fe30bffb53edd611a9b6ff7968') in 0.018118 seconds 
+  Import took 0.029447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_06.png
+  artifactKey: Guid(dbbdc7d73ab9d7145b33c3e24c7a9087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_06.png using Guid(dbbdc7d73ab9d7145b33c3e24c7a9087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323c55ee7a63ce4322fe90c247a7d2f3') in 0.019615 seconds 
+  Import took 0.025859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_06.png
+  artifactKey: Guid(4f4ced12cb9b05c488e369f8bae6ab32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_06.png using Guid(4f4ced12cb9b05c488e369f8bae6ab32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70f8c6f69ec78061778493ea69f6e6c') in 0.022716 seconds 
+  Import took 0.028804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_009.png
+  artifactKey: Guid(e5258472650049045bbf40c848a088b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_009.png using Guid(e5258472650049045bbf40c848a088b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5bdc3cbfabc32d9b396fbeec1d81133') in 0.024447 seconds 
+  Import took 0.029526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/dizzy_02.png
+  artifactKey: Guid(99b9eb4aa031cd34b8c4bc76201f84a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/dizzy_02.png using Guid(99b9eb4aa031cd34b8c4bc76201f84a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3c77a87013a144247efdaf5d7283b6') in 0.028173 seconds 
+  Import took 0.033704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_02.png
+  artifactKey: Guid(8e62a7946c37bd542a205f31952507d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_02.png using Guid(8e62a7946c37bd542a205f31952507d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf0a4917d4b096f8c8aca3cf80a9fe6') in 0.029192 seconds 
+  Import took 0.035048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/jumpATK_01.png
+  artifactKey: Guid(f1b31f7728766914f9bdd24da0c6c15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/jumpATK_01.png using Guid(f1b31f7728766914f9bdd24da0c6c15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81a7473741f18066077530df13eb511d') in 0.031560 seconds 
+  Import took 0.037238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/hurt_02.png
+  artifactKey: Guid(c00d49e25087e51469846d2e22e2fa6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/hurt_02.png using Guid(c00d49e25087e51469846d2e22e2fa6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5197ea4e625876946044eb640844450') in 0.026330 seconds 
+  Import took 0.032453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_005.png
+  artifactKey: Guid(57a5401a8028e9847bdaf9dca66842ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_005.png using Guid(57a5401a8028e9847bdaf9dca66842ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2026756791e692cd251d4bd6c408fc') in 0.019793 seconds 
+  Import took 0.031268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_02.png
+  artifactKey: Guid(4712c1ad024e03b4c97cf0683831cff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_02.png using Guid(4712c1ad024e03b4c97cf0683831cff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67eee10f56ea8ab317a075931ddc7148') in 0.022530 seconds 
+  Import took 0.028598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_006.png
+  artifactKey: Guid(9e8f0ef582be53e4b97859d154d91af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_006.png using Guid(9e8f0ef582be53e4b97859d154d91af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ecf3f838b0fba460888210e6683a98') in 0.022165 seconds 
+  Import took 0.027487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_002.png
+  artifactKey: Guid(c96b02b971b0a4243881a4f47f4d3179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_002.png using Guid(c96b02b971b0a4243881a4f47f4d3179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7937d85fb5dbd6e6f040492d34fc8d4e') in 0.025126 seconds 
+  Import took 0.030703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_010.png
+  artifactKey: Guid(ee54785c109c1014c87115db62440046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_010.png using Guid(ee54785c109c1014c87115db62440046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc528555c36a011df6799b23d33d133') in 0.024951 seconds 
+  Import took 0.030014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_05.png
+  artifactKey: Guid(d6f80947af627e947b45cfa7a5ccc2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_05.png using Guid(d6f80947af627e947b45cfa7a5ccc2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2837e2b069c985cb04b92a15f311508') in 0.021250 seconds 
+  Import took 0.031896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_ATK_01.png
+  artifactKey: Guid(cfb0994800bda9d46ac37ca2d06f5c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_ATK_01.png using Guid(cfb0994800bda9d46ac37ca2d06f5c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c14150001de87fef994f121f564f67') in 0.020400 seconds 
+  Import took 0.026495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_02.png
+  artifactKey: Guid(50a4a2787b97b4d4080a545cb036d0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_02.png using Guid(50a4a2787b97b4d4080a545cb036d0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40c12f38696f9f63aa29627dc0a4b50d') in 0.025408 seconds 
+  Import took 0.037066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/jump_01.png
+  artifactKey: Guid(b7297c1f2406fc74eaedd34307edb24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/jump_01.png using Guid(b7297c1f2406fc74eaedd34307edb24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2453e68865a9a8436cc77df8ec844a3c') in 0.025497 seconds 
+  Import took 0.030980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_003.png
+  artifactKey: Guid(2d0a58967735e414e8ccd71cf74ba3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_003.png using Guid(2d0a58967735e414e8ccd71cf74ba3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e19b540b9344bd76e235ab529eb7452d') in 0.025203 seconds 
+  Import took 0.030825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_03.png
+  artifactKey: Guid(de8bfe7b6a8207b4d8f594997f70cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_03.png using Guid(de8bfe7b6a8207b4d8f594997f70cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71cba8963b6eba1118846629aca8e2e4') in 0.023579 seconds 
+  Import took 0.028700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_01.png
+  artifactKey: Guid(f11802c99509ede4c9db6c8746969cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_01.png using Guid(f11802c99509ede4c9db6c8746969cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f3555a502bc3a61037a51f73296e4a') in 0.033831 seconds 
+  Import took 0.041017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_01.png
+  artifactKey: Guid(93b5ee5598a58be4d89455da461d3fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_01.png using Guid(93b5ee5598a58be4d89455da461d3fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27550e82a512837d2f7c2b000332ce5') in 0.025528 seconds 
+  Import took 0.034974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_007.png
+  artifactKey: Guid(ab0b98e236d3caa4fa823f29bd31e1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_007.png using Guid(ab0b98e236d3caa4fa823f29bd31e1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '469267d1e39e709a240d49f920333f84') in 0.021682 seconds 
+  Import took 0.027483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/attack_02.png
+  artifactKey: Guid(2ac0bdb1f72273446853e8d81225c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/attack_02.png using Guid(2ac0bdb1f72273446853e8d81225c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f7f5a878ea84b940088f25429564c9') in 0.019579 seconds 
+  Import took 0.025622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_ATK_03.png
+  artifactKey: Guid(e5a801c3d96b4f842b19dde07d6261ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_ATK_03.png using Guid(e5a801c3d96b4f842b19dde07d6261ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0e6f5f835b01bd58185a9a238d487e') in 0.023685 seconds 
+  Import took 0.028740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/jumpATK_03.png
+  artifactKey: Guid(f6e89433e48418f4e883f7e3ac6bbf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/jumpATK_03.png using Guid(f6e89433e48418f4e883f7e3ac6bbf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ff445c158b49e49798ca5a6bcd32fb') in 0.070584 seconds 
+  Import took 0.077614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_04.png
+  artifactKey: Guid(5480b347e27b5074da20bc4efbd8d6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_04.png using Guid(5480b347e27b5074da20bc4efbd8d6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48203cb188febfc17c60ad70b20ac1f5') in 0.020231 seconds 
+  Import took 0.025516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_05.png
+  artifactKey: Guid(9306e39f0f362e24888908e2bc7ab52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_05.png using Guid(9306e39f0f362e24888908e2bc7ab52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d720caf629383baeb90704c7fd3e692') in 0.020472 seconds 
+  Import took 0.027726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_02.png
+  artifactKey: Guid(23bc0af480a292c4a92209d33c2e7c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_02.png using Guid(23bc0af480a292c4a92209d33c2e7c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6c237d6dc430d61e440495de714ef4') in 0.031527 seconds 
+  Import took 0.037418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_01.png
+  artifactKey: Guid(ec6024434cc0c7f4eb61be20590aef7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_01.png using Guid(ec6024434cc0c7f4eb61be20590aef7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2803dbc000ed976e774bcc61888a2e6d') in 0.023803 seconds 
+  Import took 0.030118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_06.png
+  artifactKey: Guid(f20355d64c1efe249bc0de4d35a8cf0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_06.png using Guid(f20355d64c1efe249bc0de4d35a8cf0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21dde5cb9a65ea8005e4f8c56cc75d7f') in 0.023162 seconds 
+  Import took 0.030347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_03.png
+  artifactKey: Guid(519b39a04c9af67439a2279a77872a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_03.png using Guid(519b39a04c9af67439a2279a77872a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7984bb38b8878906bed403828eac2026') in 0.036472 seconds 
+  Import took 0.042306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/win_02.png
+  artifactKey: Guid(b81c4bdf1f97f00419a7a6db51184b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/win_02.png using Guid(b81c4bdf1f97f00419a7a6db51184b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534aaee83a19f0de54cd459efc1e5c6b') in 0.024412 seconds 
+  Import took 0.030686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/jump_02.png
+  artifactKey: Guid(d2df597a04a76de4a96a4c5e9a6f0ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/jump_02.png using Guid(d2df597a04a76de4a96a4c5e9a6f0ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda461adc50ab65901bef9c6f019cf97') in 0.020712 seconds 
+  Import took 0.026027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_03.png
+  artifactKey: Guid(98c5ac8072bb34448b13482b69c7a0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/walk_03.png using Guid(98c5ac8072bb34448b13482b69c7a0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929c3b8cef75e76e7ca866e8893acd14') in 0.021796 seconds 
+  Import took 0.027014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_05.png
+  artifactKey: Guid(e77df11815124d74ba29a147b3ce910a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_05.png using Guid(e77df11815124d74ba29a147b3ce910a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e350ac9f56af1e19dc54c572212588d2') in 0.025631 seconds 
+  Import took 0.032182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_03.png
+  artifactKey: Guid(761e277bc5c84c3419e2a42c396dde31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_03.png using Guid(761e277bc5c84c3419e2a42c396dde31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a94343b8089460e6be135e6bdb7f9bb') in 0.018910 seconds 
+  Import took 0.031426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_01.png
+  artifactKey: Guid(4b90e2136f82c864199ce0fe6565864e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_01.png using Guid(4b90e2136f82c864199ce0fe6565864e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988c5d836fa8cebf4f7791de4d10f7d7') in 0.022372 seconds 
+  Import took 0.027778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_01.png
+  artifactKey: Guid(20daa800a641d9e4cae18a06630db1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/idle_01.png using Guid(20daa800a641d9e4cae18a06630db1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7edcc6d994d6a47b75bf7a4fc308f023') in 0.020959 seconds 
+  Import took 0.026308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/dizzy_03.png
+  artifactKey: Guid(3cbc28c0984352d4393e38772abab30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/dizzy_03.png using Guid(3cbc28c0984352d4393e38772abab30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39204e971061e14fe5c695d3df666988') in 0.022923 seconds 
+  Import took 0.036647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_02.png
+  artifactKey: Guid(d039aec307e3c04479b3b8d8b1818bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_02.png using Guid(d039aec307e3c04479b3b8d8b1818bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2735a0adc875af3f81b7a4742317182d') in 0.022689 seconds 
+  Import took 0.027701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_04.png
+  artifactKey: Guid(5ff063ce9242d8840826e75f628b6ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/flyKick_04.png using Guid(5ff063ce9242d8840826e75f628b6ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db35a42f6543b48dea065ccf3a50c1c3') in 0.017791 seconds 
+  Import took 0.023781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_04.png
+  artifactKey: Guid(e0f84d52f5380e34fa557ed3116d0c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/strike_04.png using Guid(e0f84d52f5380e34fa557ed3116d0c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc090f83788fd5eb4b7bb079b3c374a4') in 0.022236 seconds 
+  Import took 0.028826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/attack_03.png
+  artifactKey: Guid(080098adc5ac9cc428f1a442160eef31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/attack_03.png using Guid(080098adc5ac9cc428f1a442160eef31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501c73d13e25a38eb9edf751823b75af') in 0.020527 seconds 
+  Import took 0.025763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_004.png
+  artifactKey: Guid(0d77f73d4d99df547aa70ffcb58767a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_004.png using Guid(0d77f73d4d99df547aa70ffcb58767a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac23bdf4894f28104150b2f63013978e') in 0.018948 seconds 
+  Import took 0.025282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/die_001.png
+  artifactKey: Guid(78cb51b531ddb89419c7fa611c7098dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/die_001.png using Guid(78cb51b531ddb89419c7fa611c7098dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '664e06a8ff6588335a0fcd0ef70e9357') in 0.020444 seconds 
+  Import took 0.027896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/jumpATK_02.png
+  artifactKey: Guid(c0ce46792cbd15b448935b4e757cbc02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/jumpATK_02.png using Guid(c0ce46792cbd15b448935b4e757cbc02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5683bbdb800e65dee05e921a4c24c408') in 0.019627 seconds 
+  Import took 0.029499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_ATK_02.png
+  artifactKey: Guid(629e63a13f5fdc0479184fc58e22bb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/crouch_ATK_02.png using Guid(629e63a13f5fdc0479184fc58e22bb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '975b32c03910b221cc3ceca9d54893b6') in 0.024567 seconds 
+  Import took 0.029758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Dragon Warrior Files/Dragon Warrior PNG/win_01.png
+  artifactKey: Guid(a39d0102686062f47b97c60ea2b3e237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon Warrior Files/Dragon Warrior PNG/win_01.png using Guid(a39d0102686062f47b97c60ea2b3e237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb022c1e8d8e96d483bab11350944a8') in 0.020345 seconds 
+  Import took 0.026597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 220.014853 seconds.
+  path: Assets/Ninja Files/Run Tutorial.png
+  artifactKey: Guid(04b920d158b4feb48a62e9c5108c1d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Run Tutorial.png using Guid(04b920d158b4feb48a62e9c5108c1d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82320ec0f2dc06f8690033b21de7e6bd') in 0.015123 seconds 
+  Import took 0.021907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.687266 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword
+  artifactKey: Guid(129eae3ff1672474db74bd4fe919402b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword using Guid(129eae3ff1672474db74bd4fe919402b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c71f156c9da13d27cd05ba8489c419b') in 0.007919 seconds 
+  Import took 0.022481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037724 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouch 1.png
+  artifactKey: Guid(449251c49b0d19d4890225d0d611b7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouch 1.png using Guid(449251c49b0d19d4890225d0d611b7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8839b3b2ff1bbf30b0c2eeb0c32532b0') in 0.027123 seconds 
+  Import took 0.033258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouch 2.png
+  artifactKey: Guid(1efa72f442ed5964cab4b8eb34628aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouch 2.png using Guid(1efa72f442ed5964cab4b8eb34628aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a96e52fa191bea82e42644948f1d058') in 0.024946 seconds 
+  Import took 0.039176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 05.png
+  artifactKey: Guid(df23b5732b336f544939f1c92853620f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 05.png using Guid(df23b5732b336f544939f1c92853620f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3aa52097674a3f7b9e03664713638ef') in 0.019159 seconds 
+  Import took 0.027441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_jump 3.png
+  artifactKey: Guid(dfb15cede197f504aa0f707777271d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_jump 3.png using Guid(dfb15cede197f504aa0f707777271d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a32a4a266e4b78eb3c3bfaa3bb21b6') in 0.025138 seconds 
+  Import took 0.031992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 4.png
+  artifactKey: Guid(0421213b3c5d63d4b8176e6468db6bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 4.png using Guid(0421213b3c5d63d4b8176e6468db6bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c6fb45e34a1dfc474917222fc9b1d6') in 0.025661 seconds 
+  Import took 0.032042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 06.png
+  artifactKey: Guid(7142df2c612491f4282ccd81c5059b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 06.png using Guid(7142df2c612491f4282ccd81c5059b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4734915c46328ac44f3b8a6f7b1aa4ea') in 0.025244 seconds 
+  Import took 0.031732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 02.png
+  artifactKey: Guid(24c4e772e0c09814e90e582c88359dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 02.png using Guid(24c4e772e0c09814e90e582c88359dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71a412a81175e8a4f98c7c05713fc552') in 0.028841 seconds 
+  Import took 0.035403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 09.png
+  artifactKey: Guid(fae49ff079cca9e40bb4acaee9b278d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 09.png using Guid(fae49ff079cca9e40bb4acaee9b278d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0b03d12bb51a390bd8b7977cfcbbd7') in 0.023989 seconds 
+  Import took 0.030830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouchdash 1.png
+  artifactKey: Guid(9e57dec09042ee34b8f17f8fc3c953cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouchdash 1.png using Guid(9e57dec09042ee34b8f17f8fc3c953cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17eaaeba6090e10d2a667fd1d0bb082f') in 0.027643 seconds 
+  Import took 0.033424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 5.png
+  artifactKey: Guid(dea3765aa08cf7449918a03f8d173e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 5.png using Guid(dea3765aa08cf7449918a03f8d173e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83359f736b0100c987f50c9e55140704') in 0.028757 seconds 
+  Import took 0.034895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 11.png
+  artifactKey: Guid(8a9003c634f061240b70ebefcdb72d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 11.png using Guid(8a9003c634f061240b70ebefcdb72d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f1008f29b442eace33a316747fe190e') in 0.024635 seconds 
+  Import took 0.030438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 08.png
+  artifactKey: Guid(fd6c6ab5f0c0d5241957811446fd3c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 08.png using Guid(fd6c6ab5f0c0d5241957811446fd3c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '703d2923056e1a65e5442099b34ae705') in 0.036036 seconds 
+  Import took 0.041970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 1.png
+  artifactKey: Guid(cee0f3d723836fb45aff84dd2bc4b349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 1.png using Guid(cee0f3d723836fb45aff84dd2bc4b349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca8401262d5aafbfe71c853d6f62f43') in 0.024056 seconds 
+  Import took 0.033232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouch 3.png
+  artifactKey: Guid(c3707bdf883c10d40b955bd68cf881fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouch 3.png using Guid(c3707bdf883c10d40b955bd68cf881fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f554c9f3110ed40959892546b2c038fd') in 0.027264 seconds 
+  Import took 0.033802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_jump 2.png
+  artifactKey: Guid(b5e135e75e1013f4eb5264f2fca02f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_jump 2.png using Guid(b5e135e75e1013f4eb5264f2fca02f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e42197fb3a3668f7e5cbd0a0a95320f') in 0.025642 seconds 
+  Import took 0.031881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 04.png
+  artifactKey: Guid(a15ad2258fb4b2d459776c24ecf2e5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 04.png using Guid(a15ad2258fb4b2d459776c24ecf2e5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90493c13ad3cbb3c9d4c1a57d2d2c2c') in 0.022207 seconds 
+  Import took 0.029636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 07.png
+  artifactKey: Guid(5ac71f6b78966c24f9cb2df992418922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 07.png using Guid(5ac71f6b78966c24f9cb2df992418922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6693bf6554766da0404516e46e86b56b') in 0.024752 seconds 
+  Import took 0.030787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 3.png
+  artifactKey: Guid(162e56a8bf504ec4e86180b2fb2943ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 3.png using Guid(162e56a8bf504ec4e86180b2fb2943ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106425e20b22d7ce1abe9643e9c513c6') in 0.042382 seconds 
+  Import took 0.049050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_jump 1.png
+  artifactKey: Guid(acc03699cdfa34648b96651fe196826c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_jump 1.png using Guid(acc03699cdfa34648b96651fe196826c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0003d74225459deb3c650a818d366ce2') in 0.023570 seconds 
+  Import took 0.029761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 01.png
+  artifactKey: Guid(39ff9e1e415d68e4ea9dd713f8371a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 01.png using Guid(39ff9e1e415d68e4ea9dd713f8371a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '173ea1d07840f674a0a6339c9c551f29') in 0.026541 seconds 
+  Import took 0.032219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouchdash 2.png
+  artifactKey: Guid(79fdacfc01a6d994fb8da9d99f7849c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_crouchdash 2.png using Guid(79fdacfc01a6d994fb8da9d99f7849c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6ed32ea130b39686f8cd09b9d47bd3') in 0.024577 seconds 
+  Import took 0.032118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 2.png
+  artifactKey: Guid(8a121a14467840b4d96d6763be354870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 2.png using Guid(8a121a14467840b4d96d6763be354870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6376af2f70cd1c8b8924290e6bf17a77') in 0.023940 seconds 
+  Import took 0.030576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 03.png
+  artifactKey: Guid(402f1a8b033934a4881551f476725a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 03.png using Guid(402f1a8b033934a4881551f476725a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7753255c0ca42b62b472b833017305') in 0.024552 seconds 
+  Import took 0.030599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 6.png
+  artifactKey: Guid(82ac5d7acc102cc41b01f7d8f442e486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_idle 6.png using Guid(82ac5d7acc102cc41b01f7d8f442e486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30b4270fa8bd3955e634fe70413c8f4e') in 0.021424 seconds 
+  Import took 0.029002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 10.png
+  artifactKey: Guid(bb55c35ef06ae0f44afa74154a63bbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/No Sword/SNinja_nosword_run 10.png using Guid(bb55c35ef06ae0f44afa74154a63bbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee3dbbe1d4c7c8b7e3b7780706fa020') in 0.025264 seconds 
+  Import took 0.030573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.261671 seconds.
+  path: Assets/Bringer Of Death/Animation
+  artifactKey: Guid(37ece175d108a0847a3fbc12342d2372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bringer Of Death/Animation using Guid(37ece175d108a0847a3fbc12342d2372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdbeb4620693176050d15c78be62e773') in 0.011413 seconds 
+  Import took 0.018458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.493767 seconds.
+  path: Assets/Bringer Of Death/Sprite Sheet/Bringer-of-Death-SpritSheet.png
+  artifactKey: Guid(1914d95466e3d4341a618c35a56d5f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bringer Of Death/Sprite Sheet/Bringer-of-Death-SpritSheet.png using Guid(1914d95466e3d4341a618c35a56d5f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c06d29aa708f03f71f650cd417c5867') in 0.293452 seconds 
+  Import took 0.300383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Bringer Of Death/Sprite Sheet/Bringer-of-Death-SpritSheet_no-Effect.png
+  artifactKey: Guid(38e26291822c9b9479504c21a5a98126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bringer Of Death/Sprite Sheet/Bringer-of-Death-SpritSheet_no-Effect.png using Guid(38e26291822c9b9479504c21a5a98126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067b9773a181cf29014f941e69e11c5f') in 0.286527 seconds 
+  Import took 0.292288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.770011 seconds.
+  path: Assets/Bringer Of Death/Sprite Sheet
+  artifactKey: Guid(19a87452f5a57214c96be3c04ed3be81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bringer Of Death/Sprite Sheet using Guid(19a87452f5a57214c96be3c04ed3be81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2514bac57c1f2b011545c307ed0f7341') in 0.008416 seconds 
+  Import took 0.015110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 521.732464 seconds.
+  path: Assets/material/New Material.mat
+  artifactKey: Guid(de235c10442281c439f2d2fd03b4c13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/material/New Material.mat using Guid(de235c10442281c439f2d2fd03b4c13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6010d794b50943dcaaa597788e4d7d3a') in 0.246474 seconds 
+  Import took 0.254916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.494571 seconds.
+  path: Assets/gambar/home.png
+  artifactKey: Guid(c8e5dc06bceb35e4ebdcc2193a3b1fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/home.png using Guid(c8e5dc06bceb35e4ebdcc2193a3b1fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd4a9c01c03e4927defbca018192337') in 0.026072 seconds 
+  Import took 0.034024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002834 seconds.
+  path: Assets/gambar/home.png
+  artifactKey: Guid(c8e5dc06bceb35e4ebdcc2193a3b1fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gambar/home.png using Guid(c8e5dc06bceb35e4ebdcc2193a3b1fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd4a9c01c03e4927defbca018192337') in 0.023216 seconds 
+  Import took 0.029084 seconds .
+
